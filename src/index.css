@@ -9,5 +9,22 @@ body {
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  monospace;
+}
+
+.main{
+  margin: 1%;
+  background-color: #0D1F2E;
+}
+
+.button{
+  margin-top: 3%;
+  padding: 5px;
+  background-color: #178582;
+  border-color: #178582 ;
+  color: white;
+  border-radius: 10px;
+}
+.text{
+  color: white;
 }
